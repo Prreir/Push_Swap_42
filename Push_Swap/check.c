@@ -32,7 +32,6 @@ void	getsizes_a(t_data *data)
 			data->a.max = data->a.stack[i];
 		i++;
 	}
-	printf("Max: %d\n", data->a.max);
 }
 
 void	checkdouble(t_data *data)
