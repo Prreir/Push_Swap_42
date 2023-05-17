@@ -9,6 +9,11 @@
 `make fclean` - Deletes _So_long and all the resulting object files  
 `make re` - Deletes everything (object files and _push_swap_) and rebuilds _push_swap_
 
+<h2 align="left">🔁 Moves</h2>
+
+- 100 Numbers = 1081 Moves (3 ⭐️)
+- 500 Numbers = 6779 Moves (4 ⭐️)
+
 <h2 align="left">🔗 Usefull Links</h2>
 
 - [Number Generator](https://numbergenerator.org/randomnumbergenerator)
